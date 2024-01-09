@@ -12,3 +12,4 @@
 /home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.pdb
 /home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.genruntimeconfig.cache
 /home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/ref/Gestion.dll
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.sourcelink.json
