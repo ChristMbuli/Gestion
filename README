@@ -1,0 +1,23 @@
+Gestion des filières, enseignants et étudiants en C#
+Ce programme en C# est conçu pour fonctionner dans un terminal et gérer les filières, 
+les enseignants et les étudiants. Il permet d'ajouter, d'afficher et de lister 
+ces différentes entités.
+
+Fonctionnalités
+Ajouter une filière : Permet d'ajouter une nouvelle filière à la liste.
+Ajouter un enseignant : Ajoute un enseignant à la liste des enseignants.
+Ajouter un étudiant : Ajoute un nouvel étudiant avec son nom, prénom, email et sexe.
+Afficher toutes les filières : Liste toutes les filières actuellement enregistrées.
+Afficher tous les enseignants : Affiche la liste de tous les enseignants ajoutés.
+Afficher tous les étudiants : Affiche les détails de tous les étudiants enregistrés.
+
+Comment utiliser le programme
+Exécutez le programme dans un terminal prenant en charge C#.
+Suivez les isntructions du menu pour ajouter des filières, enseignants et 
+étudiants, ou pour afficher les listes existantes.
+Pour quitter le programme, saisissez 0 dans le menu.
+Ce README résume les fonctionnalités du programme, explique comment 
+l'exécuter et comment interagir avec celui-ci pour gérer les données des filières, 
+enseignants et étudiants. Vous pouvez compléter ce fichier en ajoutant des détails 
+supplémentaires sur la manière d'exécuter le code ou d'autres informations pertinentes 
+pour les utilisateurs.

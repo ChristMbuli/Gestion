@@ -1,0 +1,14 @@
+/home/christ-mbuli/C#/Gestion/bin/Debug/net8.0/Gestion
+/home/christ-mbuli/C#/Gestion/bin/Debug/net8.0/Gestion.deps.json
+/home/christ-mbuli/C#/Gestion/bin/Debug/net8.0/Gestion.runtimeconfig.json
+/home/christ-mbuli/C#/Gestion/bin/Debug/net8.0/Gestion.dll
+/home/christ-mbuli/C#/Gestion/bin/Debug/net8.0/Gestion.pdb
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.GeneratedMSBuildEditorConfig.editorconfig
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.AssemblyInfoInputs.cache
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.AssemblyInfo.cs
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.csproj.CoreCompileInputs.cache
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.dll
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/refint/Gestion.dll
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.pdb
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/Gestion.genruntimeconfig.cache
+/home/christ-mbuli/C#/Gestion/obj/Debug/net8.0/ref/Gestion.dll
